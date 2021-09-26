@@ -1,4 +1,4 @@
-package com.design;
+package com.design.singleton;
 /**
  * 测试饿汉单例模式
  * 特点：线程安全、调用效率高
